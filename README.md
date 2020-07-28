@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* [My Blog](https://jacoby.github.io/)
+* [Practimer, my web-based timer](https://practimer.me/)
+* [Purdue Perl Mongers](https://purdue.pl/) and [HackLafayette](https://www.meetup.com/hacklafayette/), my local developer group
+* [MatchBox](https://matchboxstudio.org/), my local coworking studio
+
 <!--
 **jacoby/jacoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
